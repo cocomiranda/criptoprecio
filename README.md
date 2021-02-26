@@ -11,12 +11,10 @@ Actualmente tiene BTC, ETH, BNB, ADA, DOT, XRP y LTC.
 
 El proyecto está realizado en Python.
 
-Se conecta a las APIs de Binance.
-
-https://www.binance.com/es-LA
 
 
-![Ejemplo del proyecto Arsat](ejemplo.png)
+
+![Ejemplo de twit](ejemplo.png)
 
 
 
@@ -83,4 +81,12 @@ symbol | STRING | NO |
   "count": 76         // Trade count
 }
 ```
+
+
+
+## Fuentes
+- Cotización de las distintas criptomonedas: [Binance][binance]
+
+
+[binance]: https://www.binance.com/es-LA
 
