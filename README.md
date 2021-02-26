@@ -13,4 +13,5 @@ El proyecto está realizado en Python.
 
 Se conecta a las APIs de Binance.
 
-![Ejemplo del proyecto Arsat](ejemplo.png)
+
+\t![Ejemplo del proyecto Arsat](ejemplo.png)
