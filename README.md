@@ -6,12 +6,11 @@
 
 ## Acerca de
 Bot que actualiza en tiempo real el precio distintas criptomonedas en USD.
+- [@ValorCriptoBot][twitter]
 
 Actualmente tiene BTC, ETH, BNB, ADA, DOT, XRP y LTC.
 
 El proyecto está realizado en Python.
-
-
 
 
 ![Ejemplo de twit](ejemplo.png)
@@ -87,6 +86,7 @@ symbol | STRING | NO |
 ## Fuentes
 - Cotización de las distintas criptomonedas: [Binance][binance]
 
-
 [binance]: https://www.binance.com/es-LA
+[twitter]: https://twitter.com/ValorCriptoBot
+
 
