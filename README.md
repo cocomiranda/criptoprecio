@@ -4,7 +4,11 @@
 - [Contacto](#contacto)
 
 ## Acerca de
-Aplicacion que muestra en tiempo real el precio distintas criptomonedas en USD.\
+Aplicacion que muestra en tiempo real el precio distintas criptomonedas en USD.
+Proyecto realizado con Python, HTML, JS y CSS.
+
+
+_*hacer click en cada titulo para ir a las distintas aplicaciones_
 
 [@ValorCriptoBot][twitter]
 - Ver el precio de las top10 criptomonedas en base a mkt cap.
@@ -18,10 +22,13 @@ Aplicacion que muestra en tiempo real el precio distintas criptomonedas en USD.\
 [Chrome Extension][extension]
 - Extension para Google Chrome que tiene las top300 criptomonedas.
 - Ver cambio de precio en 1 hora, 1 dia y 1 semana.
-![Ejemplo de extension](captura2.png)
 
 
-Proyecto realizado con Python, HTML, JS y CSS.
+![Ejemplo de extension](captura3.png)
+
+
+
+
 
 
 
