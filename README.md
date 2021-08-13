@@ -18,7 +18,7 @@ Aplicacion que muestra en tiempo real el precio distintas criptomonedas en USD.\
 [Chrome Extension][extension]
 - Extension para Google Chrome que tiene las top300 criptomonedas.
 - Ver cambio de precio en 1 hora, 1 dia y 1 semana.
-(captura
+![Ejemplo de extension](captura2.png)
 
 
 Proyecto realizado con Python, HTML, JS y CSS.
