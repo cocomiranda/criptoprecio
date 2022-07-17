@@ -34,10 +34,11 @@ Crypto, Blockchain, NFTs & DeFi information in real time.
 
 
 #
-[Widget][widget]
+[Widget][widget]  
 Simplemente se debe copiar la siguiente linea de codigo:
 > <iframe src="https://critoprecio-widget.netlify.app" style="display:block; width:340px; height:320px;" frameborder="0"></iframe> 
-
+> 
+<img src="widget_captura.png" width="250">
 
 
 
