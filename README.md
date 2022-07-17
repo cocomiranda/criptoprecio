@@ -19,13 +19,19 @@ _*hacer click en cada titulo para ir a las distintas aplicaciones_
 [Telegram][telegram]
 - Grupo en el que se recibe actualizacion del precio de las top criptomonedas en base a mkt cap.
 
+[Aplicación Web][extension]
+- Un sitio donde no solo vas a ver precios y variaciones, sino que tambien vas a poder comparar cotizaciones en distintos exchanges.
+
+![Ejemplo de extension](iphone13.png)
+
+
 [Chrome Extension][extension]
 - Extension para Google Chrome que tiene las top criptomonedas.
 - Ver cambio de precio en 1 hora, 1 dia y 1 semana.
 - Posibilidad de agregar favoritas a lista de seguimiento.
 
 [Aplicación Web][extension]
-Un sitio donde no solo vas a ver precios y variaciones, sino que tambien vas a poder comparar cotizaciones en distintos exchanges.
+- Un sitio donde no solo vas a ver precios y variaciones, sino que tambien vas a poder comparar cotizaciones en distintos exchanges.
 
 
 ![Ejemplo de extension](captura3.png)
