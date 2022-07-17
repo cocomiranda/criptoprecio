@@ -1,31 +1,34 @@
-# @ValorCriptoBot
+# @criptoprecio
 
 - [Acerca de](#acerca-de)
 - [Contacto](#contacto)
 
 ## Acerca de
-Aplicacion que muestra en tiempo real el precio distintas criptomonedas en USD.
-Proyecto realizado con Python, HTML, JS y CSS.
+Crypto, Blockchain, NFTs & DeFi information in real time.
 
 
 _*hacer click en cada titulo para ir a las distintas aplicaciones_
 
 [@ValorCriptoBot][twitter]
-- Ver el precio de las top10 criptomonedas en base a mkt cap.
-- Se puede recibir notificaciones personalizadas por DM.
-- Recibir graficos de cambios de precios y porcentajes de cambio.
-- Ver top ganadores y perdedores del dia. 
+- Ver el precio de las top criptomonedas en base a mkt cap.
+- Graficos de cambios diarios.
+- Se puede recibir notificaciones personalizadas.
+- Ver top ganadores y perdedores del dia.
+- Información de CEXs, DEXs y DeFi protocols.
 
 [Telegram][telegram]
-- Grupo en el que se recibe actualizacion del precio de las top20 criptomonedas en base a mkt cap.
+- Grupo en el que se recibe actualizacion del precio de las top criptomonedas en base a mkt cap.
 
 [Chrome Extension][extension]
-- Extension para Google Chrome que tiene las top300 criptomonedas.
+- Extension para Google Chrome que tiene las top criptomonedas.
 - Ver cambio de precio en 1 hora, 1 dia y 1 semana.
+- Posibilidad de agregar favoritas a lista de seguimiento.
+
+[Aplicación Web][extension]
+Un sitio donde no solo vas a ver precios y variaciones, sino que tambien vas a poder comparar cotizaciones en distintos exchanges.
 
 
 ![Ejemplo de extension](captura3.png)
-
 
 
 
@@ -42,11 +45,10 @@ _*hacer click en cada titulo para ir a las distintas aplicaciones_
 
 
 
-
-[binance]: https://www.binance.com/es-LA
-[twitter]: https://twitter.com/ValorCriptoBot
-[telegram]: https://t.me/valor_cripto_bot
-[extension]: https://chrome.google.com/webstore/detail/valorcriptobot/hgnfiejekiilbchdomcjkmffnbjlbflc?hl=es
-[cafecito]: https://cafecito.app/valorcriptobot#
+[app]: https://criptoprecio.netlify.app/
+[twitter]: https://twitter.com/criptoprecio
+[telegram]: https://t.me/cripto_precio
+[extension]: https://chrome.google.com/webstore/detail/valorcriptobot-crypto-tra/hgnfiejekiilbchdomcjkmffnbjlbflc
+[cafecito]: https://cafecito.app/criptoprecio
 
 
