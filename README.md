@@ -39,7 +39,7 @@ Crypto, Blockchain, NFTs & DeFi information in real time.
 > <iframe src="https://critoprecio-widget.netlify.app" style="display:block; width:340px; height:320px;" frameborder="0"></iframe> 
 
 - La versión gratuita muestra las primeras top 10 monedas segun capitalización de mercado.  
-- Para conseguir la version premium podes escribirnos en **[@criptoprecio][twitter]**
+
 
 <img src="widget_captura.png" width="250">
 
