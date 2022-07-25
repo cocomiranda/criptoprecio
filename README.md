@@ -35,10 +35,11 @@ Crypto, Blockchain, NFTs & DeFi information in real time.
 #
 [Widget][widget]
 - Widget web para ser añadido a cualquier sitio web.
+- La versión gratuita muestra las primeras top 10 monedas segun capitalización de mercado.  
 - Simplemente se debe copiar la siguiente linea de codigo:
 > <iframe src="https://critoprecio-widget.netlify.app" style="display:block; width:340px; height:320px;" frameborder="0"></iframe> 
 
-- La versión gratuita muestra las primeras top 10 monedas segun capitalización de mercado.  
+
 
 
 <img src="widget_captura.png" width="250">
